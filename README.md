@@ -1,0 +1,1 @@
+This is to manage variable values to be used environment provisioning 
