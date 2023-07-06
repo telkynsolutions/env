@@ -1,2 +1,2 @@
 bucket = "telkyn-terraform-state-files"
-key    = "dev/terraform.tfstate"
+key    = "sit/terraform.tfstate"
