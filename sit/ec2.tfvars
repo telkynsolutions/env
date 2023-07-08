@@ -6,4 +6,7 @@ default_tags = {
   "Owner"       = "Mr Gunther"
   "Can destroy" = "Yes"
   "Department" = "System Integration Department"
+  "Status" = "Critical"
+  "Created by" = "IT Team"
+  "Weekendshutdown" = "No"
 }
